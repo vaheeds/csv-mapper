@@ -1,0 +1,11 @@
+customer id,first name,last name,email,date of birth,is active,status,cancel reason,signup date,last activity date
+1,Alice,Johnson,alice.johnson@example.com,1988-03-15,true,active,'',2020-01-15,2023-06-15
+2,Bob,Smith,bob.smith@example.com,1992-05-20,true,active,,2020-03-18,2023-07-18
+3,Carla,Gonzalez,carla.gonzalez@example.com,1979-11-05,false,cancelled,Price too high,2019-11-25,2023-04-25
+4,David,Lee,david.lee@example.com,1985-01-30,false,cancelled,Switched to competitor,2020-06-30,2023-08-30
+5,Emma,Brown,emma.brown@example.com,1990-09-12,true,active,,2021-04-14,2023-11-14
+6,Fred,Nguyen,fred.nguyen@example.com,1975-04-08,false,paused,Requested temporary pause,2020-09-10,2023-10-10
+7,Grace,Wilson,grace.wilson@example.com,2000-06-19,false,cancelled,No longer needed,2021-12-15,2023-12-15
+8,Henry,Kim,henry.kim@example.com,1983-12-25,true,active,,2021-08-30,2023-09-30
+9,Irene,Martinez,irene.martinez@example.com,1995-02-10,false,cancelled,Poor customer support,2021-07-31,2023-11-30
+10,Jack,O'Neil,jack.oneil@example.com,1987-08-03,true,cancelled,Not interested,2021-11-30,2023-12-31
