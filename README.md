@@ -1,4 +1,4 @@
-# CSV Mapper (Skill Challenge Project)
+# CSV Mapper
 
 This application allows users to upload CSV files and map its columns to a predefined schema.
 
